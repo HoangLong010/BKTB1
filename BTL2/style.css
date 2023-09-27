@@ -3,7 +3,7 @@ h1{
 }
 ul{
     background-color: bisque;
-    width: 830px;
+    width: 1000px;
     height: 50px;
     font-family: Helvetica, sans-serif;
     font-size: 13px;
@@ -24,9 +24,21 @@ li a:hover, dropdown:hover .dropbtn{
 #Hotline{
     color: brown;
 }
-#img{
+.img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    float: left;
 }
+#heading{
+    color: rgb(127, 234, 255);
+    font-style: oblique;
+}
+#background{
+    position: relative;
+    margin-top: 30px;
+    padding-top: 80%;
+    background: url(https://pizza4ps.com/wp-content/uploads/2023/08/Store-1.jpg) top center;
+}
+
 
