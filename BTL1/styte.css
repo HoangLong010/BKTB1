@@ -121,3 +121,101 @@ html{
    
   
 }
+
+#slider {
+    position: relative;
+    margin-top:46px;
+    padding-top: 50%;
+    background: url(/assets/img/slider.png) top center / cover no-repeat;
+    
+    
+   
+
+}
+
+#slider .text-content{
+    position: absolute;
+    bottom: 47px;
+    color: #fff;
+    /* left:50%;
+    transform:translate(-50%); */
+
+    /* 
+    right:0px;
+    left:0px */
+    text-align: center;
+    width: 100%;
+
+}
+
+#slider .text-heading{
+    font-weight: 500;
+    font-size: 24px;
+
+}
+
+#slider .text-description{
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+#content {
+    /* height: 1000px;
+    background-color: #ccc; */
+
+}
+
+#content .content-section{
+    width: 800px;
+    padding: 64px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#content .section-heading{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 4px;
+
+}
+
+#content .section-sub-heading{
+    line-height: 16px;
+    margin-bottom: 25px;
+    
+}
+
+#content .list{
+    margin-bottom:25px ;
+   
+    
+    
+}
+
+#content .name{
+    float: left;
+    
+    
+}
+#content .img{
+    width:250px ;
+    height:250px ;
+    
+
+    
+  
+}
+
+
+
+
+
+
+
+
+
+
+#footer {
+
+}
